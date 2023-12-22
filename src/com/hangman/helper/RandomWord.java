@@ -1,4 +1,4 @@
-package com.fdmgroup.hangman;
+package com.hangman.helper;
 
 import java.util.Random;
 

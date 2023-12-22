@@ -1,6 +1,9 @@
-package com.fdmgroup.hangman;
+package com.hangman;
 
 import java.util.Scanner;
+
+import com.hangman.helper.InputValidator;
+import com.hangman.helper.RandomWord;
 
 
 public class HangmanGame {
